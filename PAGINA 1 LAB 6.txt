@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Mi Sitio Web</title>
+    <!-- Agrega aquí enlaces a las hojas de estilo de Bootstrap si es necesario -->
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="index.html">Página 1</a></li>
+            <li><a href="pagina1.html">Página 2</a></li>
+            <li><a href="pagina2.html">Página 3</a></li>
+        </ul>
+    </nav>
+    <h1>Bienvenido a Mi Sitio Web</h1>
+    <img src="tu-imagen.jpg" alt="Mi Imagen">
+    <p>Aquí puedes agregar un texto grande o cualquier otro contenido que desees.</p>
+</body>
+</html>
